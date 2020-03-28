@@ -1,0 +1,481 @@
+    [{
+        "id":"01",
+        "title":"Bonbin Mangkang",
+        "lat":"-6.985998",
+        "lng":"110.345998",
+        "elevation" : "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/BonbinMangkang (1).jpg",
+        "phone": "",
+        "deskripsi": "Taman Margasatwa Wonosari Mangkang merupakan relokasi dari kebun binatang Tinjomoyo. Sebagian satwa yang sebelumnya berada di Tinjomoyo, telah dipindah di tempat ini. Tempat rekreasi ini berada di pintu masuk Kota Semarang, tepatnya di jalan Raya Semarang-Kendal Km 17, dibuka untuk umum, mulai jam 08.00 s/d 17.00 WIB, Transportasi mudah Karena berada di pinggir jalan."
+    }, {
+        "id": "02",
+        "title": "Banjir Kanal Barat",
+        "lat": "-6.991216",
+        "lng": "110.402120",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Banjir Kanal Barat.jpg",
+        "phone": "",
+        "deskripsi": "Banjir Kanal Barat merupakan sungai yang berada di sebelah barat Kota Semarang yang merupakan salah satu daya tarik Wisata di Kota Semarang, pemandangan yang indah pada malam hari dengan pantulan sinar cahaya menjadikan Sungai Banjir Kanal Barat menjadi berwarna dan cantik. Untuk memperkenalkan Banjir Kanal Barat, setiap tahun Pemerintah Kota Semarang mengadakan event dengan nama (Festival Banjir Kanal Barat) berbagai acara digelar disana diantaranya Festival Perahu Hias, Festival Mancing, Festival Kuliner, festival Lampion dan Pagelaran Musik."
+    }, {
+        "id": "03",
+        "title": "Museum Jago dan Muri",
+        "lat": "-7.068719",
+        "lng": "110.410275",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Museum Jago & Muri.jpg",
+        "phone": "",
+        "deskripsi": "Museum ini didirikan oleh Perusahaan Jamu Jago sebagai Pusat Informasi dan promosi hasil jamu. Museum ini memiliki koleksi foto-foto, slide dan peralatan tradisional pembuatan jamu pada masa lalu"
+    }, {
+        "id": "04",
+        "title": "Museum Jamu Nyonya Meneer",
+        "lat": "-6.947015",
+        "lng": "110.460473",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Museum Jamu Nyonya Meneer.png",
+        "phone": "",
+        "deskripsi": "Museum Jamu Nyonya Meneer di Semarang merupakan museum jamu pertama di Indonesia. Di Museum ini terdapat aneka macam jamu dan juga sejarah dari pembuatan jamu Nyonya Meneer. Jamu merupakan salah satu warisan Indonesia."
+    }, {
+        "id": "05",
+        "title": "Museum Ronggowarsito",
+        "lat": "-6.985954",
+        "lng": "110.383860",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Museum Ronggowarsito.jpg",
+        "phone": "",
+        "deskripsi": "Jalan Abdul Rahman Saleh No.1, Kalibanteng Kulon, Semarang Barat, Kalibanteng Kidul, Semarang Bar., Kota Semarang, Jawa Tengah 50149. Museum Negeri Propinsi Jawa Tengah (Ronggowarsito) berada di jalan Abdul Rahman Saleh No.1 Semarang, diresmikan pada tanggal 5 Juli 1985 memiliki lebih dari 50.000 koleksi yang mempunyai nilai arkeologis, historis dan budaya."
+    }, {
+        "id": "06",
+        "title": "Taman Budaya Raden Saleh",
+        "lat": "-7.002953",
+        "lng": "110.424354",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Taman Budaya Raden Saleh.jpg",
+        "phone": "(024) 8311220",
+        "deskripsi": "Jl. Sriwijaya No.29, Tegalsari, Candisari, Kota Semarang, Jawa Tengah 50614. Tempat yang semula merupakan taman hiburan rakyat sebagai kebun binatang yang dimiliki Kota Semarang. Dalam perkembangannya setelah kebun binatang dipindah ke Tinjomoyo, tempat rekreasi tersebut beralih fungsi menjadi pusat kesenian dan kebudayaan. Terletak di jalan Sriwijaya No. 29 kurang lebih 3 Km dari Tugu Muda, terbuka untuk umum setiap hari."
+    }, {
+        "id": "07",
+        "title": "Water Blaster",
+        "lat": "-7.022873",
+        "lng": "110.438687",
+        "elevation": "0",
+        "webpage": "waterblasterindonesia.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Water Blaster.jpg",
+        "phone": "(024) 8500030",
+        "deskripsi": "Jl. Bukit Candi Golf No.1, Jangli, Tembalang, Kota Semarang, Jawa Tengah 50255. Wahana Wisata air yang menarik di Kota Semarang ini memiliki banyak wahana permainan air, dari anak-anak sampai dewasa seperti: Baby Kidplay, Ember Tumpah, Slide untuk anak. Pleasurepool, Speed Toorpedos, Slide Race, Yelow slide, Blue Slide, Dino Blast, Flying fox, Cave River, The Great Wall."
+    }, {
+        "id": "08",
+        "title": "Kampoeng Wisata Taman Lele",
+        "lat": "-6.985903",
+        "lng": "110.345634",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Kampoeng Wisata Taman Lele.jpg",
+        "phone": "(024) 8664094",
+        "deskripsi": "Jalan Siliwangi, Tambakaji, Semarang, Kota Semarang, Jawa Tengah 50185. Obyek Wisata ini dulu dikenal dengan Taman Lele. Di tempat ini terdapat danau buatan yang dikelilingi gazebo, sepeda air, kolam renang untuk anak, permainan anak dan beberapa satwa peliharaan, seperti Ular Phyton, buaya dan berbagai jenis burung."
+    }, {
+        "id": "09",
+        "title": "Puri Maerokoco",
+        "lat": "-6.960840",
+        "lng": "110.385291",
+        "elevation": "0",
+        "webpage": "prppjawatengah.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/puri.jpg",
+        "phone": "",
+        "deskripsi": "Jl. Puri Anjasmoro, Tawangsari, Semarang Bar., Kota Semarang, Jawa Tengah 50144. Sebuah objek Wisata yang berada di Jl. Yos Sudarso kurang lebih 5 Km dari Tugu Muda, satu komplek dengan PRPP. Sebagai taman mini Jawa Tengah yang merangkum semua rumah adat yang disebut dengan anjungan dari 35 kabupaten dan kota yang ada di Jawa Tengah. Di dalam rumah-rumah tersebut di gelar hasil-hasil industri dan kerajinan yang diproduksi oleh masing-masing daerah."
+    }, {
+        "id": "10",
+        "title": "Taman Rekreasi Wonderia",
+        "lat": "-7.001555",
+        "lng": "110.423966",
+        "elevation": "0",
+        "webpage": "wonderia-semarang.blogspot.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Taman Rekreasi Wonderia.jpg",
+        "phone": "(024) 8318868",
+        "deskripsi": "Jl. Sriwijaya No.29, Tegalsari, Candisari, Kota Semarang, Jawa Tengah 50242. Tempat rekreasi ini berada di jalan Sriwijaya. Di tempat tersebut terdapat beragam anjungan permainan anak-anak. Seperti bom-bom car, jet coaster, bianglala, rumah hantu, kereta mini, draimolen, dll"
+    }, {
+        "id": "11",
+        "title": "Gombel Golf",
+        "lat": "-7.037067",
+        "lng": "110.413455",
+        "elevation": "0",
+        "webpage": "gombelgolfsemarang.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Gombel Golf.jpg",
+        "phone": " (024) 7499988",
+        "deskripsi": "Jl. Gombel Lama No.90, Tinjomoyo, Banyumanik, Kota Semarang, Jawa Tengah 50262. Gombel Golf Semarang merupakan salah satu arena Bermain golf di Semarang. Padang golf kebanggaan di Kota Semarang di Gombel ini bertaraf internasional dengan 18 Holes, Golf Course, Driving Range 24 bays dan Club House."
+    }, {
+        "id": "12",
+        "title": "Pelabuhan Tanjung Mas",
+        "lat": "-6.947028",
+        "lng": "110.424023",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Pelabuhan Tanjung Mas.png",
+        "phone": "",
+        "deskripsi": "Jl. Coaster, Tanjung Mas, Semarang Utara, Kota Semarang, Jawa Tengah 50174. Pelabuhan Tanjung Emas (terkadang ada yang menulis Tanjung Mas),dikelola oleh PT. Pelabuhan Indonesia II (Persero), diresmikan pada tahun 1985.Pelabuhan ini merupakan satu-satunya pelabuhan di Kota Semarang. Pelabuhan Tanjung Emas berjarak 5km deri Tugu Muda atau kira-kira 30menit dengan kendaraan bermotor."
+    }, {
+        "id": "13",
+        "title": "Alamanda Restoran Taman",
+        "lat": "-7.038566",
+        "lng": "110.421590",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/bukit-alamanda-resort2.jpg",
+        "phone": "",
+        "deskripsi": "JL. Dr Setiabudi Taman Tabanas-Gombel, Ngesrep, Banyumanik, Kota Semarang, Jawa Tengah 50235. Taman yang berada di tanjakan Gombel ini dahulu dikenal dengan Taman Tabanas. Sebagai daerah perbukitan, daerah ini lebih sejuk dari Semarang bawah. Dan dari sini kita bisa menikmati pemandangan kota bawah. Disekitar tempat ini banyak berdiri Hotel dan Restoran. Terletak di jalan Setiabudi berjarak kurang lebih 8 Km dari Tugu Muda. Terbuka untuk umum dan setiap saat"
+    }, {
+        "id": "14",
+        "title": "Pusat Informasi Publik Semarang",
+        "lat": "-6.982025",
+        "lng": "110.412375",
+        "elevation": "0",
+        "webpage": "semarangkota.go.id",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Pusat Informasi Publik Semarang.png",
+        "phone": "",
+        "deskripsi": "Jalan Pemuda No.143, Sekayu, Semarang Tengah, Sekayu, Semarang, Kota Semarang, Jawa Tengah 50132. Pusat Informasi Publik (PIP) yaitu Tempat Pelayanan Masyarakat yang dikelola oleh Pemerintah Kota Semarang terletak di komplek Balaikota Jalan Pemuda no. 148 Semarang."
+    }, {
+        "id": "15",
+        "title": "Simpanglima",
+        "lat": "-6.990172",
+        "lng": "110.422921",
+        "elevation": "0",
+        "webpage": "simpanglimasemarang.blogspot.co.id",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Simpanglima.png",
+        "phone": "",
+        "deskripsi": "Pleburan, South Semarang, Semarang City, Central Java 50241. Salah satu tempat yang menjadi cirri khas kota Semarang adalah Simpang Lima. Tempat ini merupakan alun-alun yang berada ditengah-tengah persimpangan Jl. Pandanaran disebelah barat, Jl. Ahmad Yani disebelah timur, Jl. Gadjah Mada dan Jl. Pahlawan, sementara di sebelah timur laut ada jalan KH. Ahmad Dahlan. Berkembangnya fungsi Simpang Lima menjadi alun-alun merupakan saran Presiden pertama RI yang menyarankan pengadaan alun-alun di Semarang sebagai ganti dari Kanjengan (alun-alun lama)."
+    }, {
+        "id": "16",
+        "title": "Hutan Mangrove Pantai Maron",
+        "lat": "-6.958255",
+        "lng": "110.360154",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Hutan Mangrove Edupark Pantai Maron.jpg",
+        "phone": "",
+        "deskripsi": "Tugurejo, Tugu, Semarang City, Central Java 50182. Pantai Maron terletak di sebelah timur muara kali Silandak yang membelah wilayah Kecamatan Semarang Barat dan Kecamatan Tugu sepanjang kurang lebih 300m dengan kedalaman air rata-rata 50cm sejauh 15m. Hutan Mangrove Pantai Maron yang memiliki pemandangan alami ini, terbuka untuk umum dari jam 05.00 s/d 18.00 WIB. Pengunjung juga dapat menaiki perahu temple untuk rekreasi ke tengah laut. "
+    }, {
+        "id": "17",
+        "title": "Tugu Muda",
+        "lat": "-6.984333",
+        "lng": "110.409305",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Tugu Muda.jpg",
+        "phone": "",
+        "deskripsi": "Sebuah tugu berbentuk lilin tegak di tengah persimpangan Jl. Sutomo, Jl. Pandanaran, Jl. Imam Bonjol dan Jl. Soegiyopranoto. Tugu ini dibangun sebagai monument untuk mengenang heroism perjuangan Semarang dari tanggal 14-19 Oktober 1945. Peletakan batu pertama dilakukan oleh Gubernur Jawa Tengah Budiyono dan diresmikan oleh Presiden RI pertama Soekarno pada tanggal 20 Mei 1953. Berbentuk lilin dengan makna semangat yang tak kunjung padam bagi para pejuang yang mempertahankan kemerdekaan. Pada kaki monument terdapat relief yang menggambarkan kesengsaraan rakyat Indonesia di jaman penjajahan Jepang seperti relief pertempuran, relief penyerangan, relief korban dan relief kenangan."
+    }, {
+        "id": "18",
+        "title": "Pantai Marina",
+        "lat": "-6.948875",
+        "lng": "110.389329",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Pantai Marina.png",
+        "phone": "",
+        "deskripsi": "Terletak di Jl. Yos Sudarso, sebelah utara Kota Semarang. Deburan ombaknya tenang tetapi berirama membuat hati merasa nyaman dan tenang selama berada di pinggir pantai sambil memandangi keindahan pantai yang mempesona. Kawasan Pantai Marina dilengkapi kolam renang, arena Bermain anak, Gazebo, Lapangan Voli Pantai serta rekreasi air yaitu sky air dan speed boat. Kawasan ini juga dilengkapi dengan jogging track. Kawasan ini dibuka mulai pukul 05.00 WIB."
+    }, {
+        "id": "19",
+        "title": "Museum Mandala Bhakti",
+        "lat": "-6.984355",
+        "lng": "110.408858",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Museum Mandala Bhakti.jpg",
+        "phone": "",
+        "deskripsi": "Bangunharjo, Semarang Tengah, Barusari, Semarang Sel., Kota Semarang, Jawa Tengah 50139. Merupakan museum perjuangan TNI. Museum Mandala Bhakti Semarang ini menyimpan beberapa koleksi tentang data, dokumentasi persenjataan TNI baik yang tradisional hingga senjata yang modern. Serta alat-alat yang digunakan untuk mempertahankan kemerdekaan Republik Indonesia. Buka Selasa-Kamis: 08.00-18.00 WIB, Jumat : 08.00-10.00 WIB, Minggu : 08.00-12.00 WIB. Hari Senin,Sabtu dan hari besar tutup."
+    }, {
+        "id": "20",
+        "title": "Central Java Grand Mosque Masjid Agung Jawa Tengah",
+        "lat": "-6.983527",
+        "lng": "110.445285",
+        "elevation": "0",
+        "webpage": "masjidagungsemarang.weebly.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Masjid Agung Jawa Tengah.jpg",
+        "phone": "(024) 6725412",
+        "deskripsi": "Jalan Gajah Raya, Sambirejo, Gayamsari, Kota Semarang, Jawa Tengah 50613. Masjid Agung Jawa Tengah bangunannya meneladani prinsip gugus model kluster dari masjid Nabawi dan Madinah. Bentuk penampilan arsitekturnya merupakan gubahan baru yang mengambil model dari tradisi para wali dengan membubuhkan corak universal arsitektur Islam pada bangunan pusatnya dengan menonjolkan kubah utama yang dilengkapi dengan minaret runcing menjulang di keempat sisinya. Masjid beserta fasilitas pendukungnya terletak di jalan Gajah Raya, Kelurahan Sambirejo, Kecamatan Gayamsari, menempati tanah bandha Masjid Agung Semarang seluas 10 ha dan mampu menampung jamaah lebih kurang 13.000 orang."
+    }, {
+        "id": "21",
+        "title": "Lawang Sewu",
+        "lat": "-6.984054",
+        "lng": "110.410748",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/LawangSewu.jpg",
+        "phone": "(024) 3562661",
+        "deskripsi": "Komplek Tugu Muda, Jl. Pemuda, Sekayu, Semarang Tengah, Sekayu, Semarang Tengah, Kota Semarang, Jawa Tengah 50132. Lawang Sewu merupakan sebuah gedung di Semarang, Jawa Tengah yang merupakan kantor dari Nederlands-Indische Spoorweg Maatschappij atau NIS. Dibangun pada tahun 1907. Terletak di bundaran Tugu Muda yang dahulu disebut Wilhelminaplein. Banguna kuno dan megah berlantai dua ini setelah kemerdekaan dipakai sebagai kantor Djawatan Kereta Api Repoeblik Indonesia (DKARI) atau sekarang PT.Kereta Api Indonesia. Selain itu pernah dipakai sebagai Kantor Badan Prasarana Komando Daerah Militer (Kodam IV/Diponegoro) dan Kantor Wilayah (Kanwil) Kementrian Perhubungan Jawa Tengah."
+    }, {
+        "id": "22",
+        "title": "Goa Kreo",
+        "lat": "-7.038527",
+        "lng": "110.351093",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Goa Kreo.jpg",
+        "phone": "",
+        "deskripsi": "Jl. Raya Goa Kreo, Kandri, Gn. Pati, Kota Semarang, Jawa Tengah 50222. Goa Kreo merupakan sebuah goa yang dipercaya sebagai petilasan Sunan Kalijaga saat mencari kayu untuk membangun Masjid Agung Demak. Ketika itu menurut legenda, Sunan Kalijaga bertemu sekawanan kera yang kemudian disuruh menjaga kayu jati tersebut. Kata kreo berasal dari kata Mangreho yang berarti peliharalah atau jagalah. Selain menikmati pemandangan alam yang indah dan udara yang sejuk, pengunjung juga bisa menikmati aliran sungai yang dingin dan segar di bagian bawah daerah ini. Obyek Wisata ini kurang lebih 8 Km dari Tugu Muda, dibuka untuk umum jam 08.00 s/d 18.00. Dan setiap tanggal 3 Syawal diadakan upacara Sesaji Rewanda."
+    }, {
+        "id": "23",
+        "title": "Pantai Tirang",
+        "lat": "-6.954529",
+        "lng": "110.358972",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/PantaiTirang.jpg",
+        "phone": "",
+        "deskripsi": "Tugurejo,Tugu,Kota Semarang, Jawa Tengah,Indonesia"
+    }, {
+        "id": "24",
+        "title": "Taman KB Semarang",
+        "lat": "-6.992787",
+        "lng": "110.420470",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/TamanKBSemarang.jpg",
+        "phone": "",
+        "deskripsi": "Jl. Mentri Supeno, Mugassari, Semarang Sel., Kota Semarang, Jawa Tengah 50249. Mugassari,Semarang Selatan,Kota Semarang, Jawa Tengah,Indonesia"
+    }, {
+        "id": "25",
+        "title": "Pemancingan Jibaran Bandungan",
+        "lat": "-7.198859",
+        "lng": "110.375564",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/pemancingan jibaran bandungan.jpg",
+        "phone": "(0298) 711923",
+        "deskripsi": "Jimbaran,Bandungan,Semarang, Jawa Tengah,Indonesia "
+    }, {
+        "id": "26",
+        "title": "Kota Lama",
+        "lat": "-6.968445",
+        "lng": "110.425902",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/KotaLama.jpg",
+        "phone": "",
+        "deskripsi": "Jalan Letnan Jenderal Suprapto, Tanjungmas, Semarang Utara, Tj. Mas, Semarang, Kota Semarang, Jawa Tengah 50174. Area Kota Lama Semarang atau yang sering disebut Outstadt atau Little Netherland mencakup setiap daerah dimana gedung-gedung yang dibangun sejak zaman Belanda. Secara umum karakter bangunan di wilayah ini mengikuti bangunan-bangunan di wilayah Eropa sekitar tahun 1700-an. Hal ini bisa dilihat dari detail bangunan yang khas dan ornamen-ornamen yang identik dengan gaya Eropa. Seperti ukuran pintu dan jendela yang luar biasa besar, penggunaan kaca-kaca berwarna, bentuk atap yang unik, sampai adanya ruang bawah tanah. Dari segi tata kota, wilayah ini dibuat memusat dengan Gereja Blenduk dan kantor-kantor pemerintahan sebagai pusatnya. Bagaimanapun bentuknya dan apapun fungsinya saat ini, Kota Lama merupakan aset yang berharga bila dikemas dengan baik. Sebuah bentuk nyata sejarah Semarang dan sejarah Indonesia pada umumnya."
+    }, {
+        "id": "27",
+        "title": "Vihara Buddhagaya Watugong",
+        "lat": "-7.086291",
+        "lng": "110.409142",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Vihara Buddhagaya Watugong.jpg",
+        "phone": "(024) 7473590",
+        "deskripsi": "Jalan Perintis Kemerdekaan, Pudakpayung, Banyumanik, Kota Semarang, Jawa Tengah 50265"
+    }, {
+        "id": "28",
+        "title": "Klenteng Sam Po Kong",
+        "lat": "-6.996233",
+        "lng": "110.398070",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/SamPooKhong.jpg",
+        "phone": "+62247605277",
+        "deskripsi": "Jalan Simongan Raya No. 129, Bongsari, Semarang Barat,Bongsari,Semarang Bar.,Kota Semarang, Jawa Tengah, Indonesia"
+    }, {
+        "id": "29",
+        "title": "Gereja Blenduk",
+        "lat": "-6.968205",
+        "lng": "110.427433",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Gereja Blenduk.jpg",
+        "phone": "",
+        "deskripsi": "Jl. Letjend. Suprapto No.32, Tj. Mas, Semarang Utara, Kota Semarang, Jawa Tengah 10460. Terletak di jalan Letjen Suprapto No.32 merupakan bangunan yang memiliki gaya arsitektur Phantheon didirikan pada tahun 1753 sehingga gereja pertama di Semarang dan dipugar tahun 1894 oleh arsitek Belanda bernama HPA de Wilde dan Westmaas. Disebut Gereja Blenduk karena bentuk kubahnya yang seperti irisan bola, sehingga orang mengatakan mblenduk. Bangunannya berbentuk segidelapan beraturan (hexagonal) dengan keunikan interiornya. Sebagai salah satu bangunan kuno di lingkungan Kota Lama yang banyak dikunjungi Wisatawan dan sampai sekarang merupakan tempat Ibadah. Goa Kreo merupakan sebuah goa yang dipercaya sebagai petilasan Sunan Kalijaga saat mencari kayu untuk membangun Masjid Agung Demak. Ketika itu menurut legenda, Sunan Kalijaga bertemu sekawanan kera yang kemudian disuruh menjaga kayu jati tersebut. Kata kreo berasal dari kata Mangreho yang berarti peliharalah atau jagalah. Selain menikmati pemandangan alam yang indah dan udara yang sejuk, pengunjung juga bisa menikmati aliran sungai yang dingin dan segar di bagian bawah daerah ini. Obyek Wisata ini kurang lebih 8 Km dari Tugu Muda, dibuka untuk umum jam 08.00 s/d 18.00. Dan setiap tanggal 3 Syawal diadakan upacara Sesaji Rewanda."
+    }, {
+        "id": "30",
+        "title": "Gereja Gedangan",
+        "lat": "-6.965609",
+        "lng": "110.431377",
+        "elevation": "0",
+        "webpage": "gedangan.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/gereja.jpg",
+        "phone": "(024) 3541624",
+        "deskripsi": "Jl. Ronggowarsito No.11, Rejomulyo, Semarang Tim., Kota Semarang, Jawa Tengah 50174. Gereja Gedangan nama sebuah gereja yang sering disebut sebut oleh banyak orang Katholik di Kota Semarang, dimana sebenarnya memiliki nama Gereja Paroki Santo Yusup. Gereja pertama di Semarang ini sering disebut dengan Gereja Gedangan karena gereja ini terletak di jalan Ronggowarsito yang dulunya bernama Gedangan."
+    }, {
+        "id": "31",
+        "title": "Vihara Mahavira Graha",
+        "lat": "-6.958177",
+        "lng": "110.392088",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Vihara Mahavira Graha.jpg",
+        "phone": "(024) 7603211",
+        "deskripsi": "Jl. Marina Raya Komp. VI No.1, Kota Semarang, Jawa Tengah 50144. Vihara ini sering di sebut sebagai vihara terbesar di Jawa Tengah, yang terdiri atas 7 lantai, dan dengan keunikannya memiliki 88 arca Budha dalam posisi abayamudra dan 32 arca avalokitesvara (Kwan In) yang menghiasi sekeliling vihara."
+    }, {
+        "id": "32",
+        "title": "Kampung Pelangi",
+        "lat": "-6.988580",
+        "lng": "110.407778",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Kampung Pelangi.jpg",
+        "phone": "",
+        "deskripsi": "Jl. DR. Sutomo IV No.89, Randusari, Semarang Sel., Kota Semarang, Jawa Tengah 50244, Indonesia"
+    }, {
+        "id": "33",
+        "title": "Old City 3D Trick Art Museum Semarang",
+        "lat": "-6.968499",
+        "lng": "110.426336",
+        "elevation": "0",
+        "webpage": "http://oldcity3d.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Old City 3D Trick Art Museum Semarang.jpg",
+        "phone": "(024) 86570776",
+        "deskripsi": "No.26,, Jl. Letjen Suprapto, Tj. Mas, Semarang Utara, Kota Semarang, Jawa Tengah 50174"
+    }, {
+        "id": "34",
+        "title": "Citra Grand Bianglala ",
+        "lat": "-7.036858",
+        "lng": "110.456576",
+        "elevation": "0",
+        "webpage": "http://citragrandsemarang.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Citra Grand Bianglala .jpg",
+        "phone": "(024) 76410008",
+        "deskripsi": "Jl. Kompol R. Soekanto, Sambiroto, Tembalang, Kota Semarang, Jawa Tengah 50271"
+    }, {
+        "id": "35",
+        "title": "Semarang Contemporary Art Gallery",
+        "lat": "-6.967529",
+        "lng": "110.428136",
+        "elevation": "0",
+        "webpage": "http://galerisemarang.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Semarang Contemporary Art Gallery.jpg",
+        "phone": "(024) 3552099",
+        "deskripsi": "Jalan Taman Srigunting No. 5-6 Jalan Letjen Suprapto, Tj. Mas, Semarang Utara, Kota Semarang, Jawa Tengah 50174"
+    }, {
+        "id": "36",
+        "title": "Polder Tawang ",
+        "lat": "-6.965213",
+        "lng": "110.428317",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Polder Tawang .jpeg",
+        "phone": "",
+        "deskripsi": "Jl. Tawang, Tj. Mas, Semarang Utara, Kota Semarang, Jawa Tengah 50174"
+    }, {
+        "id": "37",
+        "title": "Danau BSB ",
+        "lat": "-7.026982",
+        "lng": "110.329737",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Danau BSB .jpg",
+        "phone": "(024) 76670550",
+        "deskripsi": "Jalan RM Hadi Subeno Sasrowardoyo, Mijen, Pesantren, Mijen, Kabupaten Demak, Jawa Tengah 50212 Tempat ini terletak di kawasan perumahan BSB "
+    }, {
+        "id": "38",
+        "title": "Desa Wisata Lembah Kalipancur ",
+        "lat": "-7.020523",
+        "lng": "110.375458",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Desa Wisata Lembah Kalipancur .jpg",
+        "phone": " (024) 7629990",
+        "deskripsi": "Jl. Candi Penataran Raya, Manyaran, Ngaliyan, Kota Semarang, Jawa Tengah 50183"
+    }, {
+        "id": "39",
+        "title": "Kampung Pecinan Pasar Semawis",
+        "lat": "-6.974779",
+        "lng": "110.428203",
+        "elevation": "0",
+        "webpage": "gangbaru.com",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Kampung Pecinan Pasar Semawis.jpg",
+        "phone": "",
+        "deskripsi": "Jl. Gg. Wr. No.50, Kauman, Semarang Tengah, Kota Semarang, Jawa Tengah 50139, Indonesia buka pukul 18.00 - 22.00"
+    }, {
+        "id": "40",
+        "title": "Jalan Pahlawan",
+        "lat": "-6.9945513",
+        "lng": "110.4185973",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Jalan Pahlawan.png",
+        "phone": "",
+        "deskripsi": "Jalan Pahlawan merupakan rute fvorit masyarakat semarang untuk sekedar jalan-jalan menikmati senja ataupun sebagai tempat nongkrong berbagai komunitas."
+    }, {
+        "id": "41",
+        "title": "Masjid Menara ( Layur )",
+        "lat": "-6.9676177",
+        "lng": "110.4216227",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Masjid Menara ( Layur ).jpg",
+        "phone": "",
+        "deskripsi": "Jl. Layur, Dadapsari, Semarang?, Kota Semarang, Jawa Tengah 50173 Masjid Layur merupakan salah satu bangunan kuno berupa masjid tua di kota Semarang ini disebut pula Masjid Menara Kampung Melayu. Lokasi Masjid Layur ini mudah dijangkau, dari Pasar Johar ke arah Kota Lama melalui Kantor Pos Besar jalan Pemuda, sebelum Jembatan Berok belok kiri."
+    }, {
+        "id": "42",
+        "title": "Museum Rekor-Dunia Indonesia di Semarang",
+        "lat": "-7.069021",
+        "lng": "110.410898",
+        "elevation": "0",
+        "webpage": " muri.org",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Museum Rekor-Dunia Indonesia di Semarang.jpg",
+        "phone": "(024) 7475172",
+        "deskripsi": "Jl. Perintis Kemerdekaan No.275, Srondol Kulon, Banyumanik, Kota Semarang, Jawa Tengah 50263 Museum yang ada di Semarang menjadi satu dengan kawasan industri Jamu Jago. Jaya Suprana memang tak mungkin lepas dari Jamu Jago sebagai basis aktifitas bisnis keluarganya. mari berekplorasi bersama anak pasti akan menjadi seru serta menambah ilmu"
+    }, {
+        "id": "43",
+        "title": "Kebun Karet BSB",
+        "lat": "-7.110574",
+        "lng": "110.370536",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Kebun Karet BSB.jpg",
+        "phone": "",
+        "deskripsi": "desa jatisari, Kecamatan mijen, Kabupaten semarang Wisata Kebun Karet BSB di Jatisari Semarang Jawa Tengah memiliki pesona keindahan yang sangat menarik untuk dikunjungi. Sangat di sayangkan jika anda berada di kota semarang tidak mengunjungi wisata edukasi yang mempunyai keindahan yang tiada duanya tersebut."
+    }, {
+        "id": "44",
+        "title": "HUTAN MAGROVE EDUPARK",
+        "lat": "-6.958264",
+        "lng": "110.360175",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/HUTAN MAGROVE EDUPARK.png",
+        "phone": "",
+        "deskripsi": "Tugurejo, Tugu, Kota Semarang, Jawa Tengah 50182, Indonesia Maron Mangrove Edupark merupakan sebuah tempat ekowisata mangrove yang saat ini sedang hits di Semarang. Tempat ini menjadi menarik lantaran view yang telah ditawarkan dan dihasilkan sangatlah menarik. Bukan hanya itu saja, jika kita berada di tempat ini juga bisa mendapatkan background berlatar belakang pesawat terbang. KEREN BUKAN !"
+    }, {
+        "id": "45",
+        "title": "PASAR JOHAR",
+        "lat": "-6.971711",
+        "lng": "110.424198",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/PASAR JOHAR.jpg",
+        "phone": "",
+        "deskripsi": "Jl. K.H. Agus Salim, Kauman, Semarang Tengah, Kota Semarang, Jawa Tengah 50188, Indonesia"
+    }, {
+        "id": "46",
+        "title": "Gedung Oudetrap",
+        "lat": "-6.9678376",
+        "lng": "110.4256171",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Gedung Oudetrap.jpg",
+        "phone": "",
+        "deskripsi": "Tj. Mas, Semarang Utara, Kota Semarang, Jawa Tengah 5017"
+    }, {
+        "id": "47",
+        "title": "Hutan Wisata Tinjomoyo Semarang",
+        "lat": "-7.029556",
+        "lng": "110.399957",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Hutan Wisata Tinjomoyo Semarang.jpg",
+        "phone": "",
+        "deskripsi": "Tinjomoyo, Banyumanik, Kota Semarang, Jawa Tengah 50262, Indonesia"
+    }, {
+        "id": "48",
+        "title": "Taman Kota Lama Semarang",
+        "lat": "-6.967697",
+        "lng": "110.425262",
+        "elevation": "0",
+        "webpage": "",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Taman Kota Lama Semarang.jpg",
+        "phone": "",
+        "deskripsi": "Jl. Letjen Suprapto No.22, Tj. Mas, Semarang Utara, Kota Semarang, Jawa Tengah 50174, Indonesia"
+    }]
